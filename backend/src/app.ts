@@ -20,7 +20,19 @@ app.use(
 
 app.use(express.json());
 
-// Base Health Check
+// Base Health Check & Welcome Routes
+app.get('/', (_req, res) => {
+  res.json({
+    status: 'ok',
+    message: 'Support Ticket Dashboard API is running',
+    healthCheck: '/health',
+    endpoints: {
+      stats: '/api/tickets/stats',
+      tickets: '/api/tickets',
+    },
+  });
+});
+
 app.get('/health', (_req, res) => {
   res.json({ status: 'ok', message: 'Support Ticket API is running' });
 });
