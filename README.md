@@ -4,6 +4,14 @@ A full-stack, responsive web application designed for customer support teams to 
 
 ---
 
+## 🌐 Live Application URL
+
+- **Live Frontend Dashboard**: [https://support-ticket-dashboard-frontend-6qne.onrender.com](https://support-ticket-dashboard-frontend-6qne.onrender.com)
+- **Live Backend API**: [https://support-ticket-dashboard-backend.onrender.com](https://support-ticket-dashboard-backend.onrender.com)
+- **API Health Check**: [https://support-ticket-dashboard-backend.onrender.com/health](https://support-ticket-dashboard-backend.onrender.com/health)
+
+---
+
 ## 📸 Application Screenshots
 
 > 💡 **Instructions for adding screenshots:** Replace the placeholder markdown images below with your actual screenshot image paths (e.g. `./screenshots/dashboard.png` or an image hosting URL).

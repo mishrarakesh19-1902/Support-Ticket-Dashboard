@@ -2,6 +2,9 @@
 
 This document provides a concise summary of the architectural choices, assumptions, known limitations, and time investment for the **Support Ticket Dashboard** take-home assignment.
 
+- **Live Application URL**: [https://support-ticket-dashboard-frontend-6qne.onrender.com](https://support-ticket-dashboard-frontend-6qne.onrender.com)
+- **Live Backend API**: [https://support-ticket-dashboard-backend.onrender.com](https://support-ticket-dashboard-backend.onrender.com)
+
 ---
 
 ## 1. Technical Choices & Rationale
